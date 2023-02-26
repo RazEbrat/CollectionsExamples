@@ -10,7 +10,8 @@ public class AllCollecitonsInOne {
 		 * 
 		 * this is just a random class just to bring changes in Collections
 		 */
-
+			
+		// This is a comment from Central Repository
 	}
 
 }
